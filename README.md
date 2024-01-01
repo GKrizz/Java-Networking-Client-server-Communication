@@ -1,1 +1,1 @@
-# Java-Networking-Client-server-Communication
+# Client-server-Communication
